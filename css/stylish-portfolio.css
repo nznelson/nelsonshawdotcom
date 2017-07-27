@@ -237,5 +237,13 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 0 0 40px 0;
+}
+
+.cv {
+    margin-top: 40px;
+}
+
+.blurb {
+    font-size: 18px;
 }
