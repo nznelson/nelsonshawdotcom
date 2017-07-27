@@ -247,3 +247,12 @@ footer {
 .blurb {
     font-size: 18px;
 }
+
+#hire {
+    margin-top: 40px;
+}
+
+#hire-btn {
+    margin-left: 4px;
+    margin-bottom: 2px;
+}
